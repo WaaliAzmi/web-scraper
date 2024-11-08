@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.env
+
+# Virtual Environments
+.venv/
+
+# Log files
+scraping_log.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Excel Files
+*.xlsx
